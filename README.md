@@ -1,4 +1,4 @@
-## Hi, im Viktor. Im currectly learning Python and HTML/CSS
+## Hi, im Viktor. Learning C# and js rn
 
 <!--
 **jajsemviktor/jajsemviktor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
